@@ -7,5 +7,10 @@ public class TestGit {
 		System.out.println("test  git.......");
 		System.out.println("test  git.......");
 		System.out.println("test  git.......");   	
+		
+		
+		System.out.println("master modify.......");
+		System.out.println("master modify.......");
+		System.out.println("master modify.......");
 	}
 }
